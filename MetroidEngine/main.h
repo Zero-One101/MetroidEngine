@@ -1,0 +1,2 @@
+void Update();
+void Draw();

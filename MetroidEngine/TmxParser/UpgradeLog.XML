@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TmxParser">
+</Property><Property Name="Solution File" Value="F:\Dropbox\Public\University\Strand F\MetroidEngine\TmxParser\TmxParser.sln">
+</Property><Property Name="Date" Value="20 May 2014">
+</Property><Property Name="Time" Value="20:41:41">
+</Property></Properties><Event ErrorLevel="0" Project="TmxParser" Source="TmxParser.vcproj" Description="Converting project file 'F:\Dropbox\Public\University\Strand F\MetroidEngine\TmxParser\TmxParser.vcproj'.">
+</Event><Event ErrorLevel="1" Project="TmxParser" Source="TmxParser.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="TmxParser" Source="TmxParser.vcproj" Description="MSB8012: $(TargetName) ('TmxParser') does not match the Librarian's OutputFile property value 'F:\Dropbox\Public\University\Strand F\MetroidEngine\TmxParser\lib\TmxParserd.lib' ('TmxParserd') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="TmxParser" Source="TmxParser.vcproj" Description="MSB8012: $(TargetPath) ('F:\Dropbox\Public\University\Strand F\MetroidEngine\TmxParser\lib\TmxParser.lib') does not match the Librarian's OutputFile property value 'F:\Dropbox\Public\University\Strand F\MetroidEngine\TmxParser\lib\TmxParserd.lib' ('F:\Dropbox\Public\University\Strand F\MetroidEngine\TmxParser\lib\TmxParserd.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="TmxParser" Source="TmxParser.vcproj" Description="Done converting to new project file 'F:\Dropbox\Public\University\Strand F\MetroidEngine\TmxParser\TmxParser.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="TmxParser" Source="TmxParser.vcproj" Description="Converted">
+</Event></UpgradeLog>
